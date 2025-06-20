@@ -1,7 +1,5 @@
 # 📚 EBook - Electronic Book Store
 
-![EBook Demo](https://ahmedkhaled2817.github.io/EBook/screenshot.png)
-
 > 🔗 **Live Demo:** [https://ahmedkhaled2817.github.io/EBook/](https://ahmedkhaled2817.github.io/EBook/)  
 > 📂 **Source Code:** [https://github.com/AhmedKhaled2817/EBook](https://github.com/AhmedKhaled2817/EBook)
 
