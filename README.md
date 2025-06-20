@@ -1,53 +1,45 @@
 # 📚 EBook - Electronic Book Store
 
-> 🔗 **Live Demo:** [https://ahmedkhaled2817.github.io/EBook/](https://ahmedkhaled2817.github.io/EBook/)  
-> 📂 **Source Code:** [https://github.com/AhmedKhaled2817/EBook](https://github.com/AhmedKhaled2817/EBook)
+A sleek, interactive, and fully responsive online book store designed to deliver an enjoyable and seamless user experience. This project allows users to browse and search for books easily, making it ideal for creating digital libraries or book showcases — built with clean **HTML5**, **CSS3**, and **JavaScript**.
 
 ---
 
-## 📝 Introduction
-**EBook** is a sleek, interactive, and responsive online book store built with **HTML**, **CSS**, and **JavaScript**. It allows users to browse and search for books easily, making it ideal for creating digital libraries or book showcases.
+## 🌐 Live Demo
+
+🔗 [View the Live Demo](https://ahmedkhaled2817.github.io/EBook/)
+
+---
+
+## 👀 Project Preview
+
+![preview](https://github.com/user-attachments/assets/486a794f-bcd2-4a4b-99d6-c96519b4ca43)
 
 ---
 
 ## ✨ Features
-- 📚 **Browse Book List** – Displays a clean, organized listing of available books.
-- 🔍 **Search Functionality** – Quickly locate books by title or keyword.
-- ⚡ **Modern Responsive Design** – Works smoothly across desktop, tablet, and mobile.
-- 🌙 **Dark Mode** – Switch between light and dark themes for comfortable reading.
-- 🛠️ **Easy to Maintain** – Simple, clean code structure.
-- 🌟 **Future-Ready** – Supports adding pagination, book details, and more.
+
+- ✅ **Responsive Layout**: Fully optimized for mobile, tablet, and desktop devices.  
+- 💡 **Modern User Interface**: Clean design with smooth hover effects and animations.  
+- 📚 **Browse Book List**: Displays books in an attractive and organized layout.  
+- 🔍 **Search Functionality**: Quickly locate books by title or keyword.  
+- 🌙 **Dark Mode**: Switch between light and dark themes for comfortable reading.  
+- 🛠️ **Easy Maintenance**: Simple, clean, and well-structured code for quick updates.
 
 ---
 
-## 🚀 How It Works
-1. The website displays a list of available books.
-2. Users can search for a specific book using the search bar.
-3. The layout is fully responsive for mobile, tablet, and desktop.
-4. The app uses **vanilla JavaScript** for interactive behavior.
-5. Includes animations powered by **ScrollReveal.js** and sliders by **Swiper.js**.
+## 🛠️ Technologies Used
+
+| Technology       | Description                                                          |
+|------------------|----------------------------------------------------------------------|
+| `HTML5`           | Page structure and semantic layout                                   |
+| `CSS3`            | Responsive design, flexbox, and animations                           |
+| `JavaScript (ES6+)`| Interactive elements and DOM handling                               |
+| `Swiper.js`       | Responsive sliders and carousels                                   |
+| `ScrollReveal.js` | Scroll-based animations for enhanced user experience                |
 
 ---
 
-## 🧩 Tech Stack
-- **HTML5** – Markup structure
-- **CSS3** – Styling, layout, and responsiveness
-- **JavaScript (ES6+)** – Logic and DOM handling
-- **[Swiper.js](https://swiperjs.com/)** – Touch sliders and carousels
-- **[ScrollReveal.js](https://scrollrevealjs.org/)** – Scroll-based animations
-
----
-
-## 📸 Screenshots
-
-### 💻 Main Page
-![Main Page](https://ahmedkhaled2817.github.io/EBook/screenshot.png)
-
-*(Replace this link with the actual screenshot of your app.)*
-
----
-
-## 📌 Project Structure
+## 📁 Project Structure
 
 EBook/
 ├── index.html
@@ -56,50 +48,16 @@ EBook/
 ├── images/
 ├── README.md
 
-
 ---
 
-## ⚡ Getting Started
+## 👨‍💻 Author
 
-**To run this project locally:**
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/AhmedKhaled2817/EBook.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd EBook
-    ```
-3. Open the `index.html` file in your browser.
-
----
-
-## 🤝 Contributing
-Contributions are always welcome!  
-If you have ideas or improvements:
-
-1. 🍴 Fork the repository
-2. 🌱 Create a new branch
-3. 🛠️ Push your changes
-4. 📬 Open a Pull Request
-
----
-
-## 👤 Author
 **Ahmed Khaled**  
-Front-End Developer | Passionate about building clean, user-friendly interfaces.
-
-- 💼 [GitHub](https://github.com/AhmedKhaled2817)  
-- 🌐 [Live Demo](https://ahmedkhaled2817.github.io/EBook/)
+📎 GitHub: [@AhmedKhaled2817](https://github.com/AhmedKhaled2817)
 
 ---
 
 ## 📝 License
-This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
 
----
-
-> 💙 Thanks for checking out **EBook** — Enjoy browsing and coding!
-
+This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
 
